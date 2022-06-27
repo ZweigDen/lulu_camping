@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunklulu_camping"]=self["webpackChunklulu_camping"]||[]).push([[443],{381:function(n,u,a){a.r(u),a.d(u,{default:function(){return f}});var t=a(252);const c={class:"about"},e=(0,t._)("h1",null,"This is an about page",-1),r=[e];function s(n,u){return(0,t.wg)(),(0,t.iD)("div",c,r)}var i=a(744);const l={},o=(0,i.Z)(l,[["render",s]]);var f=o}}]);
+//# sourceMappingURL=about.c70bc412.js.map
